@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anup_Khismatrao
 - 👀 I’m interested in Technology.
-- 🌱 I’m currently learning C,C++,Java
+- 🌱 I’m currently learning C, Java, Web Development.
 - 📫 How to reach me: khismatrao2003@gmail.com
 
 <!---
