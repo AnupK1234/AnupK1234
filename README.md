@@ -5,7 +5,9 @@
 </h1>
 
 - 👋 Hi, I’m @Anup_Khismatrao
-- 🌱 Currently exploring MERN Stack development.
+- 🔭 I’m actively participating in <strong>hackathons</strong>
+- 🌱 Currently exploring <strong>MERN Stack development</strong>.
+- 🔍 I’m looking for <strong> career opportunities</strong>.
 - 📫 How to reach me: khismatrao2003@gmail.com
 
 ## 🌐  Connect with me:  
