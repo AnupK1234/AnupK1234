@@ -90,7 +90,7 @@
   </tr>
   
   <tr>
-    <td>Operting System</td>
+    <td>Operating System</td>
     <td>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> 
